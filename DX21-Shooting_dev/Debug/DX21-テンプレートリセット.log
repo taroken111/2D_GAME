@@ -1,0 +1,18 @@
+﻿  player.cpp
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(58): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(59): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(213): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(214): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(282): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(308): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(327): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(331): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(336): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(337): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(341): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(354): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(355): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(368): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\player.cpp(369): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  DX21-テンプレートリセット.vcxproj -> C:\Users\fujii.kentarou\Desktop\AT12D281_2018\DX22\DX22-Project\Shooting\code\DX21-Shooting_ver1_7_6\DX21-Shooting_dev\Debug\DX21-テンプレートリセット.exe
+  DX21-テンプレートリセット.vcxproj -> C:\Users\fujii.kentarou\Desktop\AT12D281_2018\DX22\DX22-Project\Shooting\code\DX21-Shooting_ver1_7_6\DX21-Shooting_dev\Debug\DX21-テンプレートリセット.pdb (Full PDB)

@@ -1,0 +1,128 @@
+﻿  bigbomb.cpp
+bigbomb.cpp(73): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+bigbomb.cpp(78): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+bigbomb.cpp(91): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+bigbomb.cpp(92): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+bigbomb.cpp(101): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+bigbomb.cpp(102): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+bigbomb.cpp(138): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  bullet.cpp
+bullet.cpp(126): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(127): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(138): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(139): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(145): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(146): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(153): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(154): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  camera2D.cpp
+camera2D.cpp(62): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+camera2D.cpp(63): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  collision.cpp
+collision.cpp(59): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(60): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(94): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(95): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(97): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(98): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(100): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(101): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(103): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+collision.cpp(104): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  DebugPrimitive.cpp
+  effect.cpp
+effect.cpp(109): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+effect.cpp(110): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  enemy.cpp
+enemy.cpp(85): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(86): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(103): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(104): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(122): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(180): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(181): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(234): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(235): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  explosion.cpp
+explosion.cpp(46): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+explosion.cpp(47): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  fade.cpp
+  game.cpp
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(18): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'FUNCTION_INDEX' の左辺を無視します。
+  input.cpp
+  item.cpp
+item.cpp(61): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+item.cpp(81): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+item.cpp(90): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+item.cpp(92): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  judgement.cpp
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(18): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'FUNCTION_INDEX' の左辺を無視します。
+judgement.cpp(99): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+judgement.cpp(189): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  main.cpp
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(18): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'FUNCTION_INDEX' の左辺を無視します。
+  map.cpp
+  menu.cpp
+  multimissile.cpp
+multimissile.cpp(73): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+multimissile.cpp(74): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+multimissile.cpp(90): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+multimissile.cpp(197): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+multimissile.cpp(198): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+multimissile.cpp(199): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+multimissile.cpp(200): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+multimissile.cpp(201): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  mydirect3d.cpp
+  number.cpp
+  player.cpp
+player.cpp(58): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(59): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(213): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(214): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(282): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+player.cpp(308): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+player.cpp(327): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(331): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(336): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(337): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(341): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(354): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(355): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(368): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+player.cpp(369): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コンパイル中...
+  playercontrol.cpp
+  radar.cpp
+radar.cpp(85): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+radar.cpp(86): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  result.cpp
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(18): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'FUNCTION_INDEX' の左辺を無視します。
+  scene.cpp
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(18): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'FUNCTION_INDEX' の左辺を無視します。
+  sound.cpp
+  sprite.cpp
+sprite.cpp(183): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+sprite.cpp(184): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+sprite.cpp(185): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+sprite.cpp(186): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+sprite.cpp(187): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+sprite.cpp(188): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+sprite.cpp(189): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+sprite.cpp(190): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  SpriteAnimation.cpp
+  system_timer.cpp
+  Texture.cpp
+  title.cpp
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\scene.h(18): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'FUNCTION_INDEX' の左辺を無視します。
+  コード生成しています。
+c:\users\fujii.kentarou\desktop\at12d281_2018\dx22\dx22-project\shooting\code\dx21-shooting_ver1_7_6\dx21-shooting_dev\spriteanimation.cpp(110): warning C4715: 'SpriteAnimation_Create': 値を返さないコントロール パスがあります。
+  All 170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  DX21-テンプレートリセット.vcxproj -> C:\Users\fujii.kentarou\Desktop\AT12D281_2018\DX22\DX22-Project\Shooting\code\DX21-Shooting_ver1_7_6\DX21-Shooting_dev\Release\DX21-テンプレートリセット.exe
+  DX21-テンプレートリセット.vcxproj -> C:\Users\fujii.kentarou\Desktop\AT12D281_2018\DX22\DX22-Project\Shooting\code\DX21-Shooting_ver1_7_6\DX21-Shooting_dev\Release\DX21-テンプレートリセット.pdb (Full PDB)
